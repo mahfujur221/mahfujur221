@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning **Python, Java & Web Development**
 - 💡 Interested in problem-solving and creating small projects
 - 🎯 Goal: Become a full-stack developer
-- 📫 Reach me at **mahfuj.dev@gmail.com**
+- 📫 Reach me at **mdmahfuj.cse@gmail.com**
 
 ---
 
@@ -62,8 +62,8 @@
 <!-- Connect -->
 ### 📬 Connect with Me
 <p align="center">
-  <a href="https://fb.com/mahfujur221" target="blank"><img src="https://img.icons8.com/fluency/48/facebook-new.png"/></a>
-  <a href="https://www.instagram.com/" target="blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
+  <a href="https://fb.com/mahfuj.chowdhury.773" target="blank"><img src="https://img.icons8.com/fluency/48/facebook-new.png"/></a>
+  <a href="https://www.instagram.com/mahfuj.chowdhury.773" target="blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
   <a href="https://www.linkedin.com/in/" target="blank"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
   <a href="https://twitter.com/" target="blank"><img src="https://img.icons8.com/fluency/48/twitter.png"/></a>
   <a href="https://www.youtube.com/" target="blank"><img src="https://img.icons8.com/fluency/48/youtube-play.png"/></a>
