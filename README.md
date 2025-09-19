@@ -1,3 +1,8 @@
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/XXXXX?v=4" alt="Mahfuj's profile picture" width="200" style="border-radius:50%;">
+</p>
+
 <!-- Profile Banner -->
 <h1 align="center">Hi 👋, I'm Mahfuj</h1>
 <h3 align="center">A Beginner-level Programmer from Bangladesh, Asia 🌏</h3>
