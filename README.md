@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/XXXXX?v=4" alt="Mahfuj's profile picture" width="180" style="border-radius:50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/141043578?s=400&u=3778d0ba519dfdc841e693b4cf6e79527a6db419&v=4" alt="Mahfuj's profile picture" width="180" style="border-radius:50%;"/>
 </p>
  
 <h1 align="center">Hi 👋, I'm Mahfuj</h1>
